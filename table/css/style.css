@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;   
+    border-radius: 4px;
+    width: 500px;
+}
+td, th {
+    border: 1px solid #CACFD2;
+    text-align: left;
+    padding: 8px;
+}
+td{
+    border-right-color: transparent;
+  border-left-color: transparent;
+}
